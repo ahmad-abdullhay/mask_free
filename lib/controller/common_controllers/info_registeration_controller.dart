@@ -15,7 +15,7 @@ class InfoRegisterationController {
   DateTime dateOfBirth;
   String notes;
   bool isEssentialWorker;
-
+//
   GlobalKey<FormState> formKey = GlobalKey<FormState>();
   MyMultiSelectableDropDownListController controller =
       MyMultiSelectableDropDownListController(
