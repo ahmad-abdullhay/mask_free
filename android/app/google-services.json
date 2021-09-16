@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264835875873",
+    "project_id": "maskfree-b51f6",
+    "storage_bucket": "maskfree-b51f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264835875873:android:c8c24481c15fb0858b8f60",
+        "android_client_info": {
+          "package_name": "com.example.mask_free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264835875873-dc7gb86fo57b3l71pg63kadvl381u9co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7X1cmkDTc63FEwrDnM8JXhTSy4CCYgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264835875873-dc7gb86fo57b3l71pg63kadvl381u9co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
