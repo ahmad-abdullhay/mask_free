@@ -3,10 +3,14 @@
 booking Covid-19 vaccine appointments and
 managing vaccination process with prioritization done by using
 genetic algorithm with SIR model.
+
 with 3 different users
 vaccinated to make new appointment request and take the vaccine
+
 receptionist to add people to the center queue
+
 vaccinator to confirm the vaccinetion
+
 
 ## Screenshot
 
